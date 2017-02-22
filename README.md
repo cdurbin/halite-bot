@@ -22,8 +22,8 @@ Most of the top bots were better than mine in just about every category except o
 
 There were only a couple of games where I saw this strategy backfire. Picking on the weakened bots is not exactly the noblest of strategies, but was quite effective.
 
-1) The battles were easy to win (don't lose a lot of strength)
-2) Generally enemy (non-neutral) tiles are the best ones (gain a lot of production)
+1. The battles were easy to win (don't lose a lot of strength)
+2. Generally enemy (non-neutral) tiles are the best ones (gain a lot of production)
 
 ### Biggest weaknesses
 
